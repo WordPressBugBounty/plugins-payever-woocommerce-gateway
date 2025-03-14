@@ -1,0 +1,22 @@
+.payever-company-autocomplete-item-link {
+    font-style: normal;
+    margin: -1px;
+}
+
+.payever-company-autocomplete-item-link-secondary-text {
+    color: #1d4026;
+    font-style: italic;
+    margin: -1px;
+}
+
+body .ui-menu {
+    margin: -1px;
+}
+
+.ui-menu-item-wrapper.ui-state-active {
+    border: none !important;
+}
+
+.payever-company-autocomplete-item-link-secondary-text {
+    color: #1d4026 !important;
+}
